@@ -1,0 +1,7 @@
+<Project>
+  <Import Project=".\Directory.Packages.System.props"/>
+  <Import Project=".\Directory.Packages.Repository.props"/>
+  <Import Project=".\Directory.Packages.Microsoft.props"/>
+  <Import Project=".\Directory.Packages.Logging.props"/>
+  <Import Project=".\Directory.Packages.AspNet.props"/>
+</Project>
