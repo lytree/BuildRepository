@@ -1,12 +1,12 @@
 <Project>
   <ItemGroup>
-    <PackageVersion Include="Yarp.ReverseProxy" Version="2.2.0" />
+    <PackageVersion Include="Yarp.ReverseProxy" Version="2.3.0" />
     <PackageVersion Include="MiniProfiler.AspNetCore.Mvc" Version="4.5.4" />
-    <PackageVersion Include="NSwag.AspNetCore" Version="14.2.0" />
-    <PackageVersion Include="Scalar.AspNetCore" Version="1.2.48" />
-    <PackageVersion Include="IdentityServer4.AccessTokenValidation" Version="3.0.1" />
+    <PackageVersion Include="NSwag.AspNetCore" Version="14.6.1" />
+    <PackageVersion Include="Scalar.AspNetCore" Version="2.9.0" />
+    <PackageVersion Include="IdentityServer4.AccessTokenValidation" Version="3.2.0" />
     <PackageVersion Include="AspNetCoreRateLimit" Version="5.0.0" />
-    <PackageVersion Include="AspNetCore.HealthChecks.UI.Client" Version="8.0.1" />
+    <PackageVersion Include="AspNetCore.HealthChecks.UI.Client" Version="9.0.0" />
     <PackageVersion Include="UAParser" Version="3.1.47" />
   </ItemGroup>
 </Project>
