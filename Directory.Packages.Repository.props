@@ -2,7 +2,6 @@
   <PropertyGroup>
     <Freesql>3.5.216</Freesql>
   </PropertyGroup>
-
   <ItemGroup>
     <PackageVersion Include="FreeSql" Version="$(Freesql)" />
     <PackageVersion Include="FreeSql.Cloud" Version="1.9.1" />

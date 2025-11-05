@@ -1,5 +1,8 @@
 <Project>
   <PropertyGroup>
+    <NetCore>net8</NetCore>
+  </PropertyGroup>
+  <PropertyGroup>
     <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
     <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
     <NoWarn>$(NoWarn);NU1507</NoWarn>
