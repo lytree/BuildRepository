@@ -1,11 +1,15 @@
 <Project>
+  <PropertyGroup>
+    <Freesql>3.5.216</Freesql>
+  </PropertyGroup>
+
   <ItemGroup>
-    <PackageVersion Include="FreeSql" Version="3.5.215" />
+    <PackageVersion Include="FreeSql" Version="$(Freesql)" />
     <PackageVersion Include="FreeSql.Cloud" Version="1.9.1" />
-    <PackageVersion Include="FreeSql.Provider.Sqlite" Version="3.5.215" />
-    <PackageVersion Include="FreeSql.Provider.MySqlConnector" Version="3.5.215" />
-    <PackageVersion Include="FreeSql.DbContext" Version="3.5.215" />
-    <PackageVersion Include="FreeSql.Repository" Version="3.5.215" />
+    <PackageVersion Include="FreeSql.Provider.Sqlite" Version="$(Freesql)" />
+    <PackageVersion Include="FreeSql.Provider.MySqlConnector" Version="$(Freesql)" />
+    <PackageVersion Include="FreeSql.DbContext" Version="$(Freesql)" />
+    <PackageVersion Include="FreeSql.Repository" Version="$(Freesql)" />
     <PackageVersion Include="SqlKata" Version="4.0.1" />
     <PackageVersion Include="Yitter.IdGenerator" Version="1.0.14" />
     <PackageVersion Include="DotNetCore.CAP" Version="8.4.0" />
