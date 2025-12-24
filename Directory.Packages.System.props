@@ -1,14 +1,14 @@
 <Project>
   <PropertyGroup>
-    <Microsoft.System>10.0.0</Microsoft.System>
+    <MicrosoftSystem>10.0.0</MicrosoftSystem>
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="System.IdentityModel.Tokens.Jwt" Version="8.15.0" />
     <PackageVersion Include="System.Security.AccessControl" Version="6.0.1" />
-    <PackageVersion Include="System.Text.Json" Version="$(Microsoft.System)" />
-    <PackageVersion Include="System.IO.Pipelines" Version="$(Microsoft.System)" />
-    <PackageVersion Include="System.Collections.Immutable" Version="$(Microsoft.System)" />
-    <PackageVersion Include="System.Reflection.Metadata" Version="$(Microsoft.System)" />
+    <PackageVersion Include="System.Text.Json" Version="$(MicrosoftSystem)" />
+    <PackageVersion Include="System.IO.Pipelines" Version="$(MicrosoftSystem)" />
+    <PackageVersion Include="System.Collections.Immutable" Version="$(MicrosoftSystem)" />
+    <PackageVersion Include="System.Reflection.Metadata" Version="$(MicrosoftSystem)" />
     <PackageVersion Include="FastExpressionCompiler" Version="5.3.0" />
     <PackageVersion Include="FastExpressionCompiler.LightExpression" Version="5.3.0" />
 
