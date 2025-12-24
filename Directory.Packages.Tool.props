@@ -1,6 +1,6 @@
 <Project>
     <PropertyGroup>
-        <CommunityToolkit>3.5.303</CommunityToolkit>
+        <CommunityToolkit>8.4.0</CommunityToolkit>
     </PropertyGroup>
     <ItemGroup>
         <PackageVersion Include="BouncyCastle.Cryptography" Version="2.6.2" />
