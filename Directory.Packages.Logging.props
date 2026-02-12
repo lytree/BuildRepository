@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
-    <NLog>3.5.216</NLog>
+
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="Serilog" Version="4.3.0" />

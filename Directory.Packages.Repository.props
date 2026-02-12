@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
-    <Freesql>3.5.303</Freesql>
+    <Freesql>3.5.305</Freesql>
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="FreeSql" Version="$(Freesql)" />
@@ -9,7 +9,6 @@
     <PackageVersion Include="FreeSql.Provider.MySqlConnector" Version="$(Freesql)" />
     <PackageVersion Include="FreeSql.DbContext" Version="$(Freesql)" />
     <PackageVersion Include="FreeSql.Repository" Version="$(Freesql)" />
-    <PackageVersion Include="SqlKata" Version="4.0.1" />
     <PackageVersion Include="Yitter.IdGenerator" Version="1.0.14" />
     <PackageVersion Include="DotNetCore.CAP" Version="10.0.0" />
   </ItemGroup>
