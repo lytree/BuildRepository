@@ -22,5 +22,8 @@
     <PackageVersion Include="NLog.Web.AspNetCore" Version="6.1.0" />
     <PackageVersion Include="NLog.Extensions.Logging" Version="6.1.0" />
     <PackageVersion Include="NLog.Database" Version="6.0.3" />
+
+    <PackageVersion Include="ZLogger" Version="2.5.10" />
+    <PackageVersion Include="ZLogger.MessagePack" Version="2.5.10" />
   </ItemGroup>
 </Project>
