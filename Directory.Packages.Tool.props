@@ -1,11 +1,12 @@
 <Project>
     <PropertyGroup>
         <CommunityToolkit>8.4.0</CommunityToolkit>
-        <SpectreConsole>0.49.1</SpectreConsole>
+        <SpectreConsole>0.55.0</SpectreConsole>
     </PropertyGroup>
     <ItemGroup>
         <PackageVersion Include="BouncyCastle.Cryptography" Version="2.6.2" />
         <PackageVersion Include="Spectre.Console" Version="$(SpectreConsole)" />
+        <PackageVersion Include="Spectre.Console.Ansi" Version="$(SpectreConsole)" />
         <PackageVersion Include="Spectre.Console.Testing" Version="$(SpectreConsole)" />
         <PackageVersion Include="ScottPlot" Version="5.1.57" />
         <PackageVersion Include="NRedisStack" Version="1.3.0" />
