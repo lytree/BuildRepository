@@ -2,8 +2,11 @@
     <PropertyGroup>
         <CommunityToolkit>8.4.0</CommunityToolkit>
         <SpectreConsole>0.55.0</SpectreConsole>
+        <TUnit>1.41.0</TUnit>
     </PropertyGroup>
     <ItemGroup>
+        <PackageVersion Include="TUnit" Version="$(TUnit)" />
+        <PackageVersion Include="TUnit.PublicAPI" Version="$(TUnit)" />
         <PackageVersion Include="BouncyCastle.Cryptography" Version="2.6.2" />
         <PackageVersion Include="Spectre.Console" Version="$(SpectreConsole)" />
         <PackageVersion Include="Spectre.Console.Ansi" Version="$(SpectreConsole)" />
