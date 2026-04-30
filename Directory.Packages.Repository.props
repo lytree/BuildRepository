@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
-    <Freesql>3.5.305</Freesql>
+    <Freesql>3.5.307</Freesql>
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="FreeSql" Version="$(Freesql)" />
@@ -10,6 +10,6 @@
     <PackageVersion Include="FreeSql.DbContext" Version="$(Freesql)" />
     <PackageVersion Include="FreeSql.Repository" Version="$(Freesql)" />
     <PackageVersion Include="Yitter.IdGenerator" Version="1.0.14" />
-    <PackageVersion Include="DotNetCore.CAP" Version="10.0.0" />
+    <PackageVersion Include="DotNetCore.CAP" Version="10.0.1" />
   </ItemGroup>
 </Project>
