@@ -27,8 +27,8 @@
         <PackageVersion Include="CommunityToolkit.Common" Version="$(CommunityToolkit)" />
         <PackageVersion Include="CommunityToolkit.HighPerformance" Version="$(CommunityToolkit)" />
 
-        <PackageVersion Include="SkiaSharp" Version="3.*" />
+        <PackageVersion Include="SkiaSharp" Version="4.147.0-preview.1.1" />
 
-        <PackageVersion Include="MQTTnet" Version="5.1.*" />
+        <PackageVersion Include="MQTTnet" Version="5.1.0.1559" />
     </ItemGroup>
 </Project>
