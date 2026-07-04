@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
-    <MicrosoftExtensions>10.0.0</MicrosoftExtensions>
+    <MicrosoftExtensions>10.0.9</MicrosoftExtensions>
   </PropertyGroup>
   <ItemGroup>
 

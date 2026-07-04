@@ -1,9 +1,9 @@
 <Project>
   <PropertyGroup>
-    <MicrosoftSystem>10.0.0</MicrosoftSystem>
+    <MicrosoftSystem>10.0.9</MicrosoftSystem>
   </PropertyGroup>
   <ItemGroup>
-    <PackageVersion Include="System.IdentityModel.Tokens.Jwt" Version="8.15.0" />
+    <PackageVersion Include="System.IdentityModel.Tokens.Jwt" Version="8.19.1" />
     <PackageVersion Include="System.Security.AccessControl" Version="6.0.1" />
     <PackageVersion Include="System.Text.Json" Version="$(MicrosoftSystem)" />
     <PackageVersion Include="System.IO.Pipelines" Version="$(MicrosoftSystem)" />
@@ -21,7 +21,7 @@
     <PackageVersion Include="xunit.runner.visualstudio" Version="3.1.5" />
 
     <PackageVersion Include="Cronos" Version="0.11.1" />
-    <PackageVersion Include="Mapster" Version="7.4.0" />
+    <PackageVersion Include="Mapster" Version="10.0.10" />
     <PackageVersion Include="BenchmarkDotNet" Version="0.14.0" />
 
   </ItemGroup>

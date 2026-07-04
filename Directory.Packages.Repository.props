@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
-    <Freesql>3.5.307</Freesql>
+    <Freesql>3.5.310</Freesql>
   </PropertyGroup>
   <ItemGroup>
     <PackageVersion Include="FreeSql" Version="$(Freesql)" />
